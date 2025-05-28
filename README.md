@@ -22,7 +22,8 @@
 │   ├── analyze.py          # 性能分析脚本
 │   ├── visualize_predictions.py  # 预测结果可视化
 │   └── starlink_bw.json    # 带宽数据集
-└── README.md               # 项目说明文档
+├── README.md               # 项目说明文档
+└── 实验报告.pdf            #项目分析报告
 ```
 
 ## 基础题 - 矩阵乘法优化
